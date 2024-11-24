@@ -14,8 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 <link rel="alternate" hrefLang="en-UK" href="https://www.sitecraft.se/en" />
 <link rel="icon" href="/favicon.ico" sizes="any" />
 <meta property="og:image" content="/" />
-<meta name="generator" content="Next.js" />
-<meta name="keywords" content="Next.js,React,JavaScript" />
+<meta name="keywords" content="Webflow, Wordpress, Woocommerce" />
 
         <meta
           name="viewport"
