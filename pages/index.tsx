@@ -18,7 +18,7 @@ const Mobile: NextPage = () => {
         />
         <h2 className="m-0 relative text-5xl px-[150px] md:px-[400px] leading-[20px] font-normal font-[inherit]">
           Hej! Jag heter Anders, en produktdesigner och webbutvecklare plaserad
-          i Stockholm. Jag skapar enklare gränssnitt för hobbyister och skapare.
+          i Stockholm. Jag skapar gränssnitt för hobbyister, småföretag och skapare.
         </h2>
       </section>
       <section className="self-stretch flex flex-col items-center justify-start py-24 px-0 box-border gap-[22.9px] max-w-full text-center text-sm text-black font-montserrat">
