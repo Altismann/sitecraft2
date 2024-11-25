@@ -11,7 +11,6 @@ function MyApp({ Component, pageProps }: AppProps) {
      
 <meta name="description" content="Hej! Jag heter Anders, en produktdesigner och webbutvecklare plaserad i Stockholm. Jag skapar enklare gränssnitt för hobbyister och skapare." />
 <link rel="alternate" hrefLang="sv-SE" href="https://www.sitecraft.se" />
-<link rel="alternate" hrefLang="en-UK" href="https://www.sitecraft.se/en" />
 <link rel="icon" href="/favicon.ico" sizes="any" />
 <meta property="og:image" content="/" />
 <meta name="keywords" content="Webflow, Wordpress, Woocommerce" />
