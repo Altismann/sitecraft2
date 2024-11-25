@@ -47,23 +47,23 @@ const Mobile: NextPage = () => {
           Mina Projekt
         </h2>
         <a
-          className="self-stretch relative [text-decoration:underline] leading-[24px] font-medium text-[inherit]"
+          className="self-stretch relative [text-decoration:underline] leading-[1px] font-medium text-[inherit]"
           href="https://dyoid.se/"
           target="_blank"
         >
           bydyoid
         </a>
-        <div className="self-stretch relative text-smi leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-smi leading-[20px] mb-[20px] text-dimgray-100">
           Webflow/Wordpress (Sep 2024)
         </div>
         <a
-          className="self-stretch relative [text-decoration:underline] leading-[24px] font-medium text-[inherit]"
+          className="self-stretch relative [text-decoration:underline] leading-[1px] font-medium text-[inherit]"
           href="https://www.sitecraft.se/"
           target="_blank"
         >
           Sitecraft
         </a>
-        <div className="self-stretch relative text-smi leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-smi leading-[20px] mb-[20px] text-dimgray-100">
           Nextjs, (den här sidan) (Sep 2024)
         </div>
         <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal pb-3 mt-[60px] font-montserrat">
