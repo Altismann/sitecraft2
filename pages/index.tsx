@@ -73,7 +73,7 @@ const Mobile: NextPage = () => {
           Windows operativsystem
         </div>
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
-          Har erfarenhet av Windows 10 MacOS CromeOS
+          Har erfarenhet av Windows 10 MacOS ChromeOS
         </div>
         <div className="self-stretch relative leading-[24px] font-medium">
           PC-datorer
@@ -86,7 +86,7 @@ const Mobile: NextPage = () => {
           Mobiltelefoni
         </div>
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
-          Google Android OS, iPhone iOS och iPad iOS
+          Android, iOS
         </div>
         <div className="self-stretch relative leading-[24px] font-medium">
           Remote verktyg
@@ -146,11 +146,9 @@ const Mobile: NextPage = () => {
           </h1>
           <div className="h-[287.5px] relative text-base leading-[28px] inline-block shrink-0">
             Våra enkla hemsidor ger dig ett skyltfönster därav "E-Skylt" till
-            din hobbyverksamhet eller dina småskaliga projekt. Vi gör allting
-            effektivt så du slipper bli påtvingad onödiga och dyra lösningar. Ta
+            din verksamhet. Vi gör allting effektivt så du slipper bli påtvingad onödiga och dyra lösningar. Ta
             sedan med fördel hjälp av en expert på marknadsföring om du vill
-            öppna ett riktigt företag i framtiden. Du kan få en E-skylt för så
-            lite som 2000kr första året.
+            öppna ett företag eller växa i framtiden.
           </div>
         </div>
         <div className="w-[350px] flex flex-col items-start justify-start pt-0 px-0 pb-[47px] box-border gap-[23px] max-w-full">
@@ -160,8 +158,8 @@ const Mobile: NextPage = () => {
           <div className="self-stretch h-[64.3px] relative text-base leading-[28px] inline-block shrink-0">
             Vill du ha en liten butik för att testa dina ideér? Nu är det
             billigare och bättre än någonsin att sälja produkter på nätet. Du
-            kan du driva en riktig E-butik med möjlighet till att göra de
-            viktigaste sakerna som du behöver.
+            kan driva en riktig E-butik med möjlighet till att göra de
+            viktigaste sakerna som du behöver för att visa upp din produkt på ett riktigt bra sätt.
           </div>
         </div>
       </section>
