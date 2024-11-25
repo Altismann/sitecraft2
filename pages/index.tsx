@@ -82,7 +82,7 @@ const Mobile: NextPage = () => {
           PC maskiner Dell, HP,
           Acer, Lenovo
         </div>
-        <div className="self-stretch relative leading-[24px]">
+        <div className="self-stretch relative leading-[24px] font-medium">
           Mobiltelefoni
         </div>
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
