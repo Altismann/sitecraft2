@@ -72,7 +72,7 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative leading-[24px] font-medium">
           Windows operativsystem
         </div>
-        <div className="self-stretch relative text-xs dm:text-xl leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xs md:text-5xl leading-[20px] text-dimgray-100">
           Har erfarenhet av Windows 10 MacOS CromeOS
         </div>
         <div className="self-stretch relative leading-[24px] font-medium text-dimgray-200">
