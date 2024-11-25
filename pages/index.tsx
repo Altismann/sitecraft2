@@ -172,12 +172,12 @@ const Mobile: NextPage = () => {
         </div>
         <div className="h-[52px] relative text-smi leading-[20px] font-montserrat text-dimgray-100 inline-block shrink-0">
           Anders Altmann, 48 år, bor på adressen Enlundavägen 46 Stensborg, 179
-          75 i Skå. Telefonnummer 070-231 21 73
+          75 i Skå. Telefonnummer 070-231 21 73 aaltismann@gmail.com
         </div>
       </section>
       <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[0px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
         <a
-          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[0px] font-bold text-[inherit]"
+          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[18px] font-bold text-[inherit]"
           href="mailto:aaltismann@gmail.com"
           target="_blank"
         >
