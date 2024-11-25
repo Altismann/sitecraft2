@@ -17,7 +17,6 @@ function MyApp({ Component, pageProps }: AppProps) {
 <meta http-equiv="content-language" content="se" />
 
         <meta
-          lang= "cs"
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
         />
