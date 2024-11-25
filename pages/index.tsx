@@ -28,7 +28,7 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative leading-[1px] font-medium">
           Web Developer (Mimo)
         </div>
-        <div className="self-stretch relative text-xs leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xs leading-[20px] mb-[20px] text-dimgray-100">
           (Dec 2021)
         </div>
         <div className="self-stretch relative leading-[1px] font-medium">
