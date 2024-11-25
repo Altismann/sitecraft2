@@ -175,9 +175,9 @@ const Mobile: NextPage = () => {
           75 i Skå. Telefonnummer 070-231 21 73
         </div>
       </section>
-      <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[30.5px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
+      <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[0px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
         <a
-          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[25.2px] font-bold text-[inherit]"
+          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[0px] font-bold text-[inherit]"
           href="mailto:aaltismann@gmail.com"
           target="_blank"
         >
