@@ -75,20 +75,20 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
           Har erfarenhet av Windows 10 MacOS CromeOS
         </div>
-        <div className="self-stretch relative leading-[24px] font-medium text-dimgray-200">
+        <div className="self-stretch relative leading-[24px] font-medium">
           PC-datorer
         </div>
         <div className="w-[368px] relative text-xl leading-[10px] text-dimgray-100 inline-block max-w-full">
           PC maskiner Dell, HP,
           Acer, Lenovo
         </div>
-        <div className="self-stretch relative leading-[24px] text-gray-400">
+        <div className="self-stretch relative leading-[24px]">
           Mobiltelefoni
         </div>
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
           Google Android OS, iPhone iOS och iPad iOS
         </div>
-        <div className="self-stretch relative leading-[24px] font-medium text-dimgray-200">
+        <div className="self-stretch relative leading-[24px] font-medium">
           Remote verktyg
         </div>
         <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
