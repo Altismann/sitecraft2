@@ -79,7 +79,7 @@ const Mobile: NextPage = () => {
           PC-datorer
         </div>
         <div className="w-[368px] relative text-xl leading-[10px] text-dimgray-100 inline-block max-w-full">
-          Installation och gott underhåll på företagets PC maskiner Dell, HP,
+          PC maskiner Dell, HP,
           Acer, Lenovo
         </div>
         <div className="self-stretch relative leading-[24px] text-gray-400">
