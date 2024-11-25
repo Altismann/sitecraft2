@@ -43,7 +43,7 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative text-xs leading-[20px] text-dimgray-100">
           (Juni 2021)
         </div>
-        <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal font-permanent-marker">
+        <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal font-montserrat">
           Mina Projekt
         </h2>
         <a
