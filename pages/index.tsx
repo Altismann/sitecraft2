@@ -34,13 +34,13 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative leading-[1px] font-medium">
           ITIL (IT-Support)
         </div>
-        <div className="self-stretch relative text-xs leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xs leading-[20px] mb-[20px] text-dimgray-100">
           (Juni 2021)
         </div>
         <div className="self-stretch relative leading-[1px] font-medium">
           MS 900, Office 365 (IT-Support)
         </div>
-        <div className="self-stretch relative text-xs leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xs leading-[20px] mb-[20px] text-dimgray-100">
           (Juni 2021)
         </div>
         <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal pb-3 mt-[60px] font-montserrat">
