@@ -14,6 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 <link rel="icon" href="/favicon.ico" sizes="any" />
 <meta property="og:image" content="/" />
 <meta name="keywords" content="Webflow, Wordpress, Woocommerce" />
+<meta http-equiv="content-language" content="se" />
 
         <meta
           name="viewport"
