@@ -16,7 +16,7 @@ const Mobile: NextPage = () => {
           alt=""
           src="/imgcfheromainimage2@2x.png"
         />
-        <h2 className="m-0 relative text-5xl px-[150px] leading-[20px] font-normal font-[inherit]">
+        <h2 className="m-0 relative text-5xl px-[150px] md:px-[400px] leading-[20px] font-normal font-[inherit]">
           Hej! Jag heter Anders, en produktdesigner och webbutvecklare plaserad
           i Stockholm. Jag skapar enklare gränssnitt för hobbyister och skapare.
         </h2>
