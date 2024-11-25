@@ -78,20 +78,20 @@ const Mobile: NextPage = () => {
         <div className="self-stretch relative leading-[24px] font-medium text-dimgray-200">
           PC-datorer
         </div>
-        <div className="w-[368px] relative text-xl leading-[20px] text-dimgray-100 inline-block max-w-full">
+        <div className="w-[368px] relative text-xl leading-[10px] text-dimgray-100 inline-block max-w-full">
           Installation och gott underhåll på företagets PC maskiner Dell, HP,
           Acer, Lenovo
         </div>
         <div className="self-stretch relative leading-[24px] text-gray-400">
           Mobiltelefoni
         </div>
-        <div className="self-stretch relative text-xl leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
           Google Android OS, iPhone iOS och iPad iOS
         </div>
         <div className="self-stretch relative leading-[24px] font-medium text-dimgray-200">
           Remote verktyg
         </div>
-        <div className="self-stretch relative text-xl leading-[20px] text-dimgray-100">
+        <div className="self-stretch relative text-xl leading-[10px] text-dimgray-100">
           TeamViewer, RDP, Teams och AnyDesk
         </div>
       </section>
