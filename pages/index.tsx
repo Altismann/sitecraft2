@@ -165,15 +165,7 @@ const Mobile: NextPage = () => {
           </div>
         </div>
       </section>
-      <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[30.5px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
-        <a
-          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[25.2px] font-bold text-[inherit]"
-          href="mailto:aaltismann@gmail.com"
-          target="_blank"
-        >
-          aaltismann@gmail.com
-        </a>
-      </section>
+     
       <section className="self-stretch rounded-xl bg-white flex flex-col items-center justify-start py-[31px] px-0 gap-[17px] text-center text-sm text-black font-open-sans">
         <div className="self-stretch relative tracking-[10px] leading-[28px]">
           Kontakt
@@ -182,6 +174,15 @@ const Mobile: NextPage = () => {
           Anders Altmann, 48 år, bor på adressen Enlundavägen 46 Stensborg, 179
           75 i Skå. Telefonnummer 070-231 21 73
         </div>
+      </section>
+      <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[30.5px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
+        <a
+          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[25.2px] font-bold text-[inherit]"
+          href="mailto:aaltismann@gmail.com"
+          target="_blank"
+        >
+          aaltismann@gmail.com
+        </a>
       </section>
     </div>
   );
