@@ -21,8 +21,8 @@ const Mobile: NextPage = () => {
           i Stockholm. Jag skapar enklare gränssnitt för hobbyister och skapare.
         </h2>
       </section>
-      <section className="self-stretch flex flex-col items-center justify-start py-24 px-0 pb-3 box-border gap-[22.9px] max-w-full text-center text-sm text-black font-montserrat">
-        <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal font-permanent-marker">
+      <section className="self-stretch flex flex-col items-center justify-start py-24 px-0 box-border gap-[22.9px] max-w-full text-center text-sm text-black font-montserrat">
+        <h2 className="m-0 self-stretch relative text-5xl tracking-[10px] leading-[28px] font-normal pb-3 font-permanent-marker">
           Certifieringar
         </h2>
         <div className="self-stretch relative leading-[24px] font-medium">
