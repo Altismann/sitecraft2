@@ -27,7 +27,7 @@ const Mobile: NextPage = () => {
           href="https://sitecraftdev.vercel.app/"
           target="_blank"
         >
-          https://sitecraftdev.vercel.app/
+          Besök min nya Portfolio
         </a>
       </section>
 
