@@ -20,6 +20,14 @@ const Mobile: NextPage = () => {
           Hej! Jag heter Anders, en produktdesigner och webbutvecklare plaserad
           i Stockholm. Jag skapar gränssnitt för hobbyister, småföretag och skapare.
         </h2>
+      <section className="self-stretch overflow-hidden flex flex-col items-center justify-center py-[0px] px-[110px] text-center text-[18px] text-gray-300 font-montserrat">
+        <a
+          className="self-stretch relative [text-decoration:underline] tracking-[-0.32px] leading-[18px] font-bold text-[inherit]"
+          href="https://sitecraftdev.vercel.app/"
+          target="_blank"
+        >
+          aaltismann@gmail.com
+        </a>
       </section>
 
      
